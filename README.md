@@ -42,3 +42,4 @@ List of people who been here already:
 * Wojciech Skulski
 * Olena Khrystianova
 * Maria Sanchez
+* Vladyslav Oksonenko
